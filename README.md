@@ -22,6 +22,8 @@
 <div style="flex:1;">
 <a href="https://www.linkedin.com/in/eugene-pshonovskiy-2b941128b/" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugene pshonovskiy" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/TEGTO" target="blank" ><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="code wars" height="30" width="40" /></a>
+</a>
+<a href="https://leetcode.com/TEGTO/" target="blank" ><img align="center" src="https://www.svgrepo.com/show/341985/leetcode.svg" alt="code wars" height="30" width="40" /></a>
 </div>
 </p>
 <h3 align="left">Languages and Tools:</h3>
