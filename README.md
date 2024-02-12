@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [With the Darkness (Unity Game)](https://github.com/BlutBad1/WithTheDarkness)
 
-- 🌱 I’m currently learning **Unity, C#, Java, Clean code architecture**
+- 🌱 I’m currently learning **Unity, C#, ASP.Net, Java, Clean code architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TEGTO](https://github.com/TEGTO)
 
