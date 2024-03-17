@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegto" alt="tegto" /></a> </p>
 
-- 🔭 I’m currently working on [With the Darkness (Unity Game)](https://github.com/BlutBad1/WithTheDarkness)
+- 🔭 I’m currently working on [I HATE MY TV! (Unity Game)](https://github.com/BlutBad1/WithTheDarkness)
 
-- 🌱 I’m currently learning **Unity, C#, ASP.Net, Java, Clean code architecture**
+- 🌱 I’m currently learning **Unity, C#, ASP.Net, Blazor, Java, Clean code architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TEGTO](https://github.com/TEGTO)
 
-- 💬 Ask me about **C#, Java, Unity, Backend, Game Development**
+- 💬 Ask me about **ASP.Net, Blazor, C#, Java, Unity, Backend, Game Development**
 
 - 📫 How to reach me **pshonovskij@gmail.com**
 
