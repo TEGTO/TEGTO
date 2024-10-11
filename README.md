@@ -1,5 +1,5 @@
 <h1 align="center">Hi 💀, I'm Eugene</h1>
-<h3 align="center">Juniour fullstack and game developer from Ukraine</h3>
+<h3 align="center">Strong Junior fullstack and game developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegto&label=Profile%20views&color=0e75b6&style=flat" alt="tegto" /> </p>
 
