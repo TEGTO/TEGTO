@@ -1,21 +1,21 @@
 <h1 align="center">Hi 💀, I'm Eugene</h1>
-<h3 align="center">Strong Junior fullstack and game developer from Ukraine</h3>
+<h3 align="center"><ins>Strong Junior</ins> fullstack and game developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegto&label=Profile%20views&color=0e75b6&style=flat" alt="tegto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegto" alt="tegto" /></a> </p>
 
-- 🔭 I’m currently working on [I HATE MY TV! (Unity Game)](https://github.com/BlutBad1/WithTheDarkness)
+- 🔭 I’m currently working on **[Book Store with AI](https://github.com/TEGTO/ELibrary)**
 
-- 🌱 I’m currently learning **C#, ASP.Net, Angular, Blazor, Unity, Web service architecture, Clean code architecture**
+- 🌱 I’m currently learning **C#/.NET, ASP.Net, Docker, Apache Kafka, Angular, Azure, Unity, Web service architecture, Clean code architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TEGTO](https://github.com/TEGTO)
+- 👨‍💻 All of my projects are available at **[https://github.com/TEGTO](https://github.com/TEGTO)**
 
-- 💬 Ask me about **ASP.Net (C#), Angular, Blazor, Unity, Fullstack, Backend, Frontend, Docker, Game Development**
+- 💬 Ask me about **.NET/C#, Angular, Azure, Unity, Fullstack, Backend, Frontend, Docker, Game Development**
 
 - 📫 How to reach me **pshonovskij@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eugene-pshonovskiy-2b941128b/](https://www.linkedin.com/in/eugene-pshonovskiy-2b941128b/)
+- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/eugene-pshonovskiy-2b941128b/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
