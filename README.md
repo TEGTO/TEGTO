@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegto" alt="tegto" /></a> </p>
 
-- 🔭 I’m currently working on **[Book Store with AI](https://github.com/TEGTO/ELibrary)**
-
 - 🌱 I’m currently learning **C#/.NET, ASP.Net, Docker, Apache Kafka, Angular, Azure, Unity, Web service architecture, Clean code architecture**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/TEGTO](https://github.com/TEGTO)**
